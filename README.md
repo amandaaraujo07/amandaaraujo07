@@ -4,7 +4,7 @@
 
 # 
 
-✨ Estou no terceiro ano do Ensino Médio e, apesar do meu interesse pela área de desenvolvimento, meu objetivo é seguir uma carreira na área da saúde, unindo conhecimento tecnológico às necessidades do setor. 
+✨Apesar do meu interesse pela área de desenvolvimento, meu objetivo é fazer uma faculdade e seguir uma carreira na área da saúde, unindo meus conhecimentos tecnológicos às necessidades do setor. 
 
 #
 
