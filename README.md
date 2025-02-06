@@ -9,9 +9,11 @@
 # Meu git hub
 🚀 Aqui no meu GitHub, compartilho projetos e aprendizados adquiridos ao longo do curso. Vamos conectar e aprender juntos! 
 
-#
+# Estou aprendendo
 
 ![image](https://github.com/user-attachments/assets/94c1872e-7efc-469f-8c94-75b007078474)
 ![image](https://github.com/user-attachments/assets/3667f1ea-7765-470c-afe6-f6657745ef4f)
+![image](https://github.com/user-attachments/assets/4b30bee5-6b3f-400b-9d13-ef89f6d1fe5e)
+
 
 
